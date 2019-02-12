@@ -2,7 +2,7 @@
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/headlines`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
+This gem is a tool for collecting the latest CRE news headlines and details, as well as article abstracts and links, to create an HTML newsletter. Users can drill further to read full articles as found online. 
 
 ## Installation
 
